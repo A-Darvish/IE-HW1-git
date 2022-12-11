@@ -9,3 +9,5 @@ git checkout amend
 - There is a typo in thsi text, fix it without adding a **new commit**.
 - In some point back in history, an incorrect sentence was added to `file.txt`. amend the incorrect commit to fix it. 
   - hint: you must use `git rebase --interactive` for this. 
+
+this is typo
